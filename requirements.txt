@@ -1,0 +1,9 @@
+pandas==2.0.1
+matplotlib==3.7.1
+numpy==1.24.3
+ipywidgets==8.0.6
+IPython==8.13.1
+mpl_interactions==0.23.1
+dash
+dash-bootstrap-components
+plotly==5.18
